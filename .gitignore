@@ -50,3 +50,12 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+# Them
+.idea/
+.vs/
+.vscode/
+bin/
+obj/
+launchSettings.json
+publish/
+target/
